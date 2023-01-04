@@ -1,0 +1,8 @@
+# Dependency directory
+node_modules
+
+# Environment variables
+.env
+
+# Google Translation API Key file
+Translation API Development-1ae9b0ae1fc2.json
